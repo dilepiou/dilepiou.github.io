@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dilepiou.github.io/dilepiou.txt.gz
+Sitemap: https://dilepiou.github.io/app/dilepiou.txt.gz
+Sitemap: https://dilepiou.github.io/assets/dilepiou.txt.gz
+Sitemap: https://dilepiou.github.io/css/dilepiou.txt.gz
+Sitemap: https://dilepiou.github.io/includes/dilepiou.txt.gz
+Sitemap: https://dilepiou.github.io/item/dilepiou.txt.gz
+Sitemap: https://dilepiou.github.io/src/dilepiou.txt.gz
